@@ -1,9 +1,78 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="-1NyxRT7adJ_zUYWQrjk">
-    <mxGraphModel>
+    <mxGraphModel dx="2979" dy="2421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="A5JljbkWxzZDJU76yjhS-1" value="Sec+" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-2" value="Net+" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-3" value="AWS CCP" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="650" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-4" value="Day 1: Deloitte" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-5" value="85k" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-6" value="Splunk Power User" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="430" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-7" value="Cribl Certified User" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-8" value="Splunk Enterprise Admin" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="670" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-9" value="Take over SC role" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="510" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-10" value="Lead BAS program" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="750" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-11" value="Lead Threat Detection team" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="830" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-12" value="Delayed 6 months" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="890" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-14" value="Proxmox homelab" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="910" y="-70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-15" value="Pi home lab" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="810" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="1000" as="sourcePoint" />
+            <mxPoint x="1120" y="-60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-17" value="Arctic Wolf SE offer" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="990" y="-150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-18" value="140 OTE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-19" value="SANS training" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="-230" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-21" value="Senior SE" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="-350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="-240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A5JljbkWxzZDJU76yjhS-23" value="200 OTE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="-310" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
